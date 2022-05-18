@@ -32,7 +32,7 @@ tldextract = "==2.2.3"
 tzlocal = "==2.1"
 urllib3 = "==1.25.10"
 PySocks = "==1.7.1"
-PyYAML = "==5.3.1"
+PyYAML = "==5.4"
 
 [requires]
 python_version = "3.7"
